@@ -25,7 +25,7 @@ layout = html.Div([
                 html.P("Thanks for visiting!"),  # Adventure awaits! 
                 html.Br(),
                 dcc.Markdown("""Got feedback? Give us a shout!
-                            Create an issue in the [GitHub repo](), or even better - submit a Pull Request!
+                            Create an issue in the [GitHub repo](https://github.com/teresabehr/pumpPulses_sim), or even better - submit a Pull Request!
                             """
                             # This project uses spaCy to transform brief movie summaries into fortune cookie messages that will almost certainly come true...
                             ),
